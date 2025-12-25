@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanlcm" alt="anjanlcm" /></a> </p>
 
-- 🔭 I’m currently working on [Venue Booking System API](https://github.com/Anjanlcm/MeroPartyPalace.git)
+- 🔭 I’m currently working on [trekSathi (A Travel Partner)]
 
-- 🌱 I’m currently learning **ASP.NET core and Dotnet MAUI**
+- 🌱 I’m currently working as **ASP.NET and Dotnet MAUI Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.lamichhaneanjan.com.np/](https://www.lamichhaneanjan.com.np/)
 
