@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanlcm" alt="anjanlcm" /></a> </p>
 
-- 🔭 I’m currently working on [trekSathi (A Travel Partner)]
+- 🔭 I’m currently working on Katmatic Solutions Pvt. Ltd.
 
 - 🌱 I’m currently working as **ASP.NET and Dotnet MAUI Developer**
 
