@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanlc&label=Profile%20views&color=0e75b6&style=flat" alt="anjanlc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjanlcm" alt="anjanlcm" /></a> </p>
+<p align="left"> <a href="https://github-trophies.vercel.app/?username=anjanlcm &theme=onedark"><img src="https://github-trophies.vercel.app/?username=anjanlcm" alt="anjanlcm" /></a> </p>
 
 - 🔭 I’m currently working on Katmatic Solutions Pvt. Ltd.
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanlc&show_icons=true&locale=en&theme=default" alt="anjanlc" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=anjanlc" alt="anjanlc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanlc&show_icons=true&theme=radical" alt="anjanlc" /></p> 
